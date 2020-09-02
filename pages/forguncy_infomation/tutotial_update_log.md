@@ -10,6 +10,8 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 사이�
 
 <h2>2020년 - 튜토리얼 센터 업데이트 기록</h2>
 
+**2020년 9월 3일** : [플러그인 내려받기]({{site.url}}/forguncy5_plugins_download.html) 페이지에 Forguncy V6용 플러그인들을 업데이트 하였습니다. <br /><br />
+
 **2020년 7월 21일** : 윈도우 서버에 SMTP를 설치한 후 Forguncy로 메일 보내기 서비스를 구성할 수 있는 [SMTP 설치 및 활용 가이드라인]({{site.url}}/windows_iis_smtp.html) 페이지를 생성하였습니다.<br /><br />
 
 **2020년 7월 20일** : Forguncy Global 개발팀으로부터 추가적인 [오픈소스(OpenSource) 라이선스 고지]({{site.url}}/fgc3rdparty_license_notice.html) 내용을 전달받아 컨텐츠를 추가하였습니다.<br /><br />
