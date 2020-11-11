@@ -35,8 +35,8 @@ folder: forguncy5_81_plugins
 
     | 파일 | 설명 | 유형 |
     | --- | --- | --- |
-    | [CarouselCellType.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/CarouselCellType.zip) | 이미지 자동 전환. | 셀 유형 |
-    | [FilePreviewerKR.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/FilePreviewerKR.zip) | 서버에 파일을 업로드하고 목록을 볼 수 있음. <br />한글화 작업 중. | 셀 유형 |
+    | [CarouselCellType.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/CarouselCellType.zip) | 이미지 자동 전환 기능을 사용할 수 있음. | 셀 유형 |
+    | [FilePreviewerKR.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/FilePreviewerKR.zip) | 서버에 파일을 업로드하고 목록을 볼 수 있음. | 셀 유형 |
     | [Forguncy.CustomMenu.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/Forguncy.CustomMenu.zip) | 가로/세로 메뉴를 만들 수 있음. | 셀 유형 |
     | [Gantt.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/Gantt.zip) | 간트 차트를 웹페이지에 사용할 수 있음. | 셀 유형 |
     | [HtmlRichEdtior.zip]({{site.url}}/attached_files/Plugin_Files/V6.1_Plugin_20201111/HtmlRichEdtior.zip) | 웹사이트에서 사용할 수 있는 편집기를 사용할 수 있음. | 셀 유형 |
