@@ -11,7 +11,7 @@ folder: forguncy5_05_listview
 
 <h2>Forguncy ListView Sample 사이트 바로보기 </h2>
 
-  포건시 리스트뷰는 포건시 서버에서만 작동합니다. 교육 자료를 데모 사이트에 업데이트 해 두었으므로 [리스트뷰 교육자료 데모 보기](https://forguncy.co.kr/sample.forguncy.listviewtraining){:target="_blank"}를 클릭하여 보실 수 있습니다.
+  포건시 리스트뷰는 포건시 서버에서만 작동합니다. 교육 자료를 데모 사이트에 업데이트 해 두었으므로 [리스트뷰 교육자료 데모 보기](https://forguncy.co.kr/forguncy.demo.listview.examples){:target="_blank"}를 클릭하여 보실 수 있습니다.
 
 <br /><br />
 
