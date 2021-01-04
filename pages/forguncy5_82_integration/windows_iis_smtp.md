@@ -3,7 +3,7 @@ title: Forguncy Server 관련 설치 - IIS에 SMTP 설치하기
 tags: [Forguncy, IIS, Server]
 keywords: Forguncy, 엑셀, RPA, IIS, Server, Addons, SMTP, 자동 메일 보내기
 last_updated: Jun 20, 2020
-summary: "Forguncy를 100% 활용하기 위해 추가로 SMTP를 설정하는 방법입니다."
+summary: "Forguncy를 완전하게 활용하기 위해 추가로 SMTP를 설정하는 방법입니다."
 sidebar: forguncy5_sidebar
 permalink: windows_iis_smtp.html
 folder: forguncy5_82_integration
@@ -13,8 +13,8 @@ folder: forguncy5_82_integration
 
 > ※ 중요 안내<br />
   <br />
-   • 본 페이지에서는 SMTP를 IIS 서버에 설치하고 활용하는 방법을 설명합니다.<br />
-   • SMTP는 그레이프시티의 저작물이 아니며, 마이크로스프트에서 제공하는 기능입니다. 관련 기능 문의는 마이크로소프트로 해 주시기 바랍니다.<br />
+   • 본 페이지의 내용은 Forguncy를 사용하기 위해 필수로 설정해야 하는 기능은 아닙니다. 본 페이지에서는 Forguncy를 활용하여 웹애플리케이션에서 직접 이메일을 발송할 수 있도록 SMTP를 IIS 서버에 설치하고 활용하는 방법을 설명합니다.<br />
+   • SMTP는 그레이프시티의 저작물이 아니며, 마이크로스프트에서 제공하는 기능입니다. SMTP와 관련 기능 문의는 마이크로소프트로 해 주시기 바랍니다.<br />
    • 본 페이지의 내용은 포건시 서버가 Windows Server에 설치되어 있다고 가정한 매뉴얼입니다. 그 외 종류, 예를 들어 Windows7이나 Windows10 등, 서버가 아닌 제품에 SMTP 설정 및 포건시와의 연동은 고려하지 않았습니다.<br />
 
 <br />
@@ -172,5 +172,9 @@ SMTP(간이 우편 전송 프로토콜, Simple Mail Transfer Protocol)의 약자
   5. ‘배포’ 버튼을 눌러 웹-애플리케이션을 서버로 배포합니다. <br />
 
   6. 성공하면 웹브라우저에서 해당 서버의 주소로 애플리케이션이 실행됩니다. 이메일 주소를 입력하여 SMTP 기능이 정상 작동하는 지 확인하십시오.<br />
+
+<br /><br />
+
+관련하여 문의사항이 있으시면 언제든지 그레이프시티 코리아 기술지원(support-kor@grapecity.com)으로 연락 주십시오.
 
 <br /><br />
