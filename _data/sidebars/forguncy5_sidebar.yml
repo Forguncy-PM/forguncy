@@ -5,25 +5,25 @@ entries:
     product: Forguncy
     version: V5
     folders:
-      - title: Overview
-        output: web, pdf
-        folderitems:
-          - title: 환영합니다
-            url: /index.html
-            output: web, pdf
-            type: homepage
+#      - title: Overview
+#        output: web, pdf
+#        folderitems:
+#          - title: 환영합니다
+#            url: /index.html
+#            output: web, pdf
+#            type: homepage
+#
+#          - title: Forguncy 제품 소개
+#            url: /product_introduction.html
+#            output: web, pdf
 
-          - title: Forguncy 제품 소개
-            url: /product_introduction.html
-            output: web, pdf
+#          - title: Forguncy 특징과 장점
+#            url: /forguncy_characteristic.html
+#            output: web, pdf
 
-          - title: Forguncy 특징과 장점
-            url: /forguncy_characteristic.html
-            output: web, pdf
-
-          - title: 업무와 교육용 Forguncy
-            url: /forguncy_for_whom.html
-            output: web, pdf
+#          - title: 업무와 교육용 Forguncy
+#            url: /forguncy_for_whom.html
+#            output: web, pdf
 
       - title: Forguncy Builder
         output: web, pdf
@@ -79,7 +79,7 @@ entries:
             url: /fgc5server_uninstallation.html
             output: web, pdf
 
-      - title: Forguncy Server 관련 설치
+      - title: Forguncy 관련 추가 설치
         output: web, pdf
         folderitems:
           - title: IIS에 SMTP 설치
@@ -331,7 +331,48 @@ entries:
                 url: /fgc5jsapi_listview-class-addselectedrow.html
                 output: web, pdf
 
+      - title: Forguncy C# API
+        output: web, pdf
+        folderitems:
+          - title: C# API 소개
+            url: /fgc5csapi_intro.html
+            output: web, pdf
 
+            subfolders:
+            #Forguncy C# API - Command API - subfolders
+            - title: C# API - Command API
+              output: web, pdf
+              subfolderitems:
+
+              - title: Command Namespace
+                url: /fgc5csapi_command_namespace.html
+                output: web, pdf
+
+              - title: Command 클래스
+                url: /fgc5csapi_command_class.html
+                output: web, pdf                
+                
+              - title: Command 멤버변수 목록
+                url: /fgc5csapi_command_member_variables.html
+                output: web, pdf
+                
+            #Forguncy C# API - CellType API - subfolders
+            - title: C# API - CellType API
+              output: web, pdf
+              subfolderitems:
+
+              - title: CellType 클래스 -  전체 목록
+                url: /
+                output: web, pdf
+
+            #Forguncy C# API - Plugin API - subfolders
+            - title: C# API - Plugin API
+              output: web, pdf
+              subfolderitems:
+
+              - title: Plugin 클래스 -  전체 목록
+                url: /
+                output: web, pdf
 
       - title: Forguncy ListView
         output: web, pdf
@@ -347,6 +388,9 @@ entries:
           output: web, pdf
         - title: ListView 스타일 적용
           url: /forguncy5_listview_quickstyle.html
+          output: web, pdf
+        - title: ListView 활용
+          url: /forguncy5_listview_advanced.html
           output: web, pdf
           
       - title: Forguncy Plugins
@@ -377,16 +421,16 @@ entries:
                 url: /forguncy5_plugins_dev_laydate.html
                 output: web, pdf
 
-      - title: F.A.Q.
-        output: web, pdf
-        folderitems:
-          - title: Forguncy 제품 관련 FAQ
-            url: /forguncy5_faq_general.html
-            output: web, pdf
-          - title: Forguncy와 Excel 함수 비교
-            url: /forguncy5_faq_excel_comparison.html
-            output: web, pdf
-          - title: Forguncy 라이선스 FAQ
-            url: /forguncy5_faq_license.html
-            output: web, pdf
+#      - title: F.A.Q.
+#        output: web, pdf
+#        folderitems:
+#          - title: Forguncy 제품 관련 FAQ
+#            url: /forguncy5_faq_general.html
+#            output: web, pdf
+#          - title: Forguncy와 Excel 함수 비교
+#            url: /forguncy5_faq_excel_comparison.html
+#            output: web, pdf
+#          - title: Forguncy 라이선스 FAQ
+#            url: /forguncy5_faq_license.html
+#            output: web, pdf
             

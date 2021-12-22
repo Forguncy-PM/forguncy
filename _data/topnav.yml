@@ -8,7 +8,7 @@ topnav:
       - title: 그 외 정보
         url: /under_construction.html
       - title: 데모보기
-        external_url: https://forguncy.co.kr/forguncy.demo
+        external_url: https://forguncy.co.kr/
 #Topnav dropdowns
 # topnav_dropdowns:
 # - title: Topnav dropdowns
