@@ -8,7 +8,7 @@ folder: forguncy_infomation
 summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 사이트에 변경이 있을 때 정기적으로 업데이트 됩니다. 튜토리얼의 어떤 부분이 바뀌었는지 확인하세요."
 ---
 
-<h2>2020년 - 튜토리얼 센터 업데이트 기록</h2>
+**2021년 12월 23일** : [플러그인 내려받기]({{site.url}}/forguncy5_plugins_download.html) 페이지에 Forguncy V7.1, V7용 플러그인들을 업데이트 하였습니다. <br /><br />
 
 **2020년 11월 11일** : [플러그인 내려받기]({{site.url}}/forguncy5_plugins_download.html) 페이지에 Forguncy V6.1용 플러그인들을 업데이트 하였습니다. <br /><br />
 
@@ -47,10 +47,6 @@ summary: "튜토리얼의 업데이트 기록입니다. 이 페이지는 사이�
 **2020년 1월 16일** : 제품 관련 자주 묻는 질문, [FAQ(Frequently Asked Question)]({{site.url}}/forguncy5_faq_general.html) 제작을 시작하였습니다. 향후 고객님들의 잦은 질문에 대한 답변을 지속적으로 업데이트 할 예정입니다.<br /><br />
 
 **2020년 1월 14일** : Forguncy API 문서 작성을 시작하였습니다. Forguncy에서 지원하는 자체 API를 모두 정리할 예정입니다.<br /><br />
-
-<br /><br />
-
-<h2>2019년 - 튜토리얼 센터 업데이트 기록</h2>
 
 **2019년 11월 29일** : Forguncy [제품 소개]({{site.url}}/product_introduction.html)와 [특장점 소개]({{site.url}}/forguncy_characteristic.html) 작성을 완료하였습니다. 제품 설치와 제거, 정품 인증 방법에 대해 매뉴얼 작성을 완료하였습니다.<br /><br />
 
