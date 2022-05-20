@@ -79,12 +79,12 @@ entries:
             url: /fgc5server_uninstallation.html
             output: web, pdf
 
-      - title: Forguncy 관련 추가 설치
-        output: web, pdf
-        folderitems:
-          - title: IIS에 SMTP 설치
-            url: /windows_iis_smtp.html
-            output: web, pdf
+      # - title: Forguncy 관련 추가 설치
+      #   output: web, pdf
+      #   folderitems:
+      #     - title: IIS에 SMTP 설치
+      #       url: /windows_iis_smtp.html
+      #       output: web, pdf
 
       - title: Forguncy JavaScript API
         output: web, pdf
@@ -331,48 +331,48 @@ entries:
                 url: /fgc5jsapi_listview-class-addselectedrow.html
                 output: web, pdf
 
-      - title: Forguncy C# API
-        output: web, pdf
-        folderitems:
-          - title: C# API 소개
-            url: /fgc5csapi_intro.html
-            output: web, pdf
+      # - title: Forguncy C# API
+      #   output: web, pdf
+      #   folderitems:
+      #     - title: C# API 소개
+      #       url: /fgc5csapi_intro.html
+      #       output: web, pdf
 
-            subfolders:
-            #Forguncy C# API - Command API - subfolders
-            - title: C# API - Command API
-              output: web, pdf
-              subfolderitems:
+      #       subfolders:
+      #       #Forguncy C# API - Command API - subfolders
+      #       - title: C# API - Command API
+      #         output: web, pdf
+      #         subfolderitems:
 
-              - title: Command Namespace
-                url: /fgc5csapi_command_namespace.html
-                output: web, pdf
+      #         - title: Command Namespace
+      #           url: /fgc5csapi_command_namespace.html
+      #           output: web, pdf
 
-              - title: Command 클래스
-                url: /fgc5csapi_command_class.html
-                output: web, pdf                
+      #         - title: Command 클래스
+      #           url: /fgc5csapi_command_class.html
+      #           output: web, pdf                
                 
-              - title: Command 멤버변수 목록
-                url: /fgc5csapi_command_member_variables.html
-                output: web, pdf
+      #         - title: Command 멤버변수 목록
+      #           url: /fgc5csapi_command_member_variables.html
+      #           output: web, pdf
                 
-            #Forguncy C# API - CellType API - subfolders
-            - title: C# API - CellType API
-              output: web, pdf
-              subfolderitems:
+      #       #Forguncy C# API - CellType API - subfolders
+      #       - title: C# API - CellType API
+      #         output: web, pdf
+      #         subfolderitems:
 
-              - title: CellType 클래스 -  전체 목록
-                url: /
-                output: web, pdf
+      #         - title: CellType 클래스 -  전체 목록
+      #           url: /
+      #           output: web, pdf
 
-            #Forguncy C# API - Plugin API - subfolders
-            - title: C# API - Plugin API
-              output: web, pdf
-              subfolderitems:
+      #       #Forguncy C# API - Plugin API - subfolders
+      #       - title: C# API - Plugin API
+      #         output: web, pdf
+      #         subfolderitems:
 
-              - title: Plugin 클래스 -  전체 목록
-                url: /
-                output: web, pdf
+      #         - title: Plugin 클래스 -  전체 목록
+      #           url: /
+      #           output: web, pdf
 
       - title: Forguncy ListView
         output: web, pdf
